@@ -12,9 +12,9 @@ A method for implementing the supervised multidimensional scaling proposal of Wi
 \tabular{ll}{
 Package: \tab superMDS\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-03-27\cr
-License: \tab GPL >= 2\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2013-01-02\cr
+License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 }
 Supervised multidimensional scaling (MDS) is a supervised version of least squares MDS. Suppose that we have a nxn dissimilarity matrix D
@@ -27,7 +27,7 @@ method. Details can be found in the paper below.
 \author{
 Daniela M. Witten
 
-Maintainer: Daniela M. Witten <dwitten@u.washington.edu>
+Maintainer: Daniela Witten <dwitten@u.washington.edu>
 }
 \references{
 Witten and Tibshirani (2011) Supervised multidimensional scaling for visualization, classification, and bipartite ranking. 
