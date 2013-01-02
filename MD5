@@ -1,8 +1,8 @@
-c20bdfa13d8d748dfbedd0c387a1b36a *DESCRIPTION
+dc68c3da50ee8c50da514094b28fdd08 *DESCRIPTION
 263e51815d496ffd944d4f56e90f0997 *NAMESPACE
 798131fd7e216c3380314975666b4f9b *R/Functions.R
 c310e97a5cb8817839f1a5ebadddc259 *R/TestSuperMDS.R
 7cba5a015f8ecd5e0a8d8b25963b0211 *R/TrainSuperMDS.R
 9e29b09c167219acfa187f6efaf9fea7 *man/TestSuperMDS.Rd
 a461c3620a9c10d3b36a50eed449bac5 *man/TrainSuperMDS.Rd
-02f932becfe7bff6cadbc24f1b211f9b *man/superMDS-package.Rd
+04944aa1756865234a14e29641d040c7 *man/superMDS-package.Rd
